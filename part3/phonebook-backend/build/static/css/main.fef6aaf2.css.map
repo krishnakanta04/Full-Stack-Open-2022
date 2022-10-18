@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fef6aaf2.css","mappings":"AAAA,cAEI,kBAAqB,CACrB,YAAa,CACb,kBAAmB,CAHnB,SAAU,CAKV,kBAAmB,CADnB,YAEJ","sources":["index.css"],"sourcesContent":[".notification{\r\n    color: red;\r\n    background: lightgrey;\r\n    border: solid;\r\n    border-color: green;\r\n    padding: 20px;\r\n    margin-bottom: 10px;\r\n}"],"names":[],"sourceRoot":""}

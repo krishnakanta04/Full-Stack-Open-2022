@@ -70,6 +70,13 @@ const App = () => {
         setNumber('')
         setTimeout(() => setMessage(null), 3000)
       })
+      .catch(err => {
+        console.log(err.response.data.error)
+        setMessage(err.response.data.error)
+        setTimeout(() => {
+          setMessage(null)
+        }, 5000)
+      })
     
   }
 
