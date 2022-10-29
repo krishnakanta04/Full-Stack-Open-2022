@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhZGhhIiwiaWQiOiI2MzVjZWE1ZmM1M2Y1NmY4YjVkZjZhYWYiLCJpYXQiOjE2NjcwMzM5Nzl9.ADIH8bQtdMj54GmN8a0vNtJkK1iORrXD_5xG2e6UJfE
+
+{
+    "title": "How to use Android 1",
+    "author": "RadhaRR",
+    "url": "url for testing",
+    "userId": "635cea5fc53f56f8b5df6aaf"
+}
